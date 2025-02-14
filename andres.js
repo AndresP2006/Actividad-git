@@ -1,1 +1,1 @@
-echo "console.log('Hola, Andres');" > Andres.js
+console.log('Hola, Andres');
